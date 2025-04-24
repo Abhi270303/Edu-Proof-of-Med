@@ -1,7 +1,9 @@
 # Proof of Med
 
 ## Overview
-**Proof of Med** is a decentralized solution that ensures the authenticity of medical prescriptions in online pharmacy transactions using **Zero-Knowledge Proofs (ZKPs)**. By leveraging **Noir for circuit design**, **Sindri for proof generation**, **zkVerify for on-chain verification**, and **Educhain Testnet for blockchain execution**, Proof of Med provides a trustless system that mitigates fraudulent prescriptions while maintaining patient privacy.
+**Proof of Med** is a decentralized science solution that ensures the authenticity of medical prescriptions in online pharmacy transactions using **Zero-Knowledge Proofs (ZKPs)**. By leveraging **Noir for circuit design**, **Sindri for proof generation**, **zkVerify for on-chain verification**, and **Educhain Testnet for blockchain execution**, Proof of Med provides a trustless system that mitigates fraudulent prescriptions while maintaining patient privacy.
+
+🧬 **A DeSci (Decentralized Science) project empowering medical trust with privacy-preserving cryptography.**
 
 ## **Key Features**
 - **Privacy-Preserving Prescription Verification**: Validates prescriptions without exposing sensitive patient data.
@@ -43,7 +45,6 @@
 - **Doctor** – Authorized to issue prescriptions.
 - **Pharmacy** – Manages inventory and fulfills orders based on verified prescriptions.
 
-
 ## Future Roadmap
 - **Integration with IPFS** for prescription storage.
 - **Onboarding real-world pharmacies** for pilot testing.
@@ -56,6 +57,7 @@
 MIT License
 
 ---
+
 🚀 **Proof of Med brings security, privacy, and decentralization to online prescriptions.**
 
-
+🔗 Follow us on Twitter: [@ProofOfMed](https://twitter.com/InternOnChain)
