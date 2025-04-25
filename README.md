@@ -60,4 +60,4 @@ MIT License
 
 🚀 **Proof of Med brings security, privacy, and decentralization to online prescriptions.**
 
-🔗 Follow us on Twitter: [@ProofOfMed](https://twitter.com/InternOnChain)
+🔗 Follow us on Twitter: [@ProofOfMed](https://twitter.com/ProofMed)
